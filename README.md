@@ -14,9 +14,21 @@ ergonomic layout
 
 # Cad model 
 
-I currently am not planing to have a case as i think it makes it look better and it makes it cheaper 
+I have a case and believe me that the pcb fits in the case i have done the mesurements the case is in 4 parts the top and bottom bolt togeter (i already have the screws)
 
-Here is the pcb to see what it looks like:
+Case top view:
+
+<p align="center">
+  <img src="Images/Screenshot%202026-01-25%20131504.png" alt="Wireless Split Keeb screenshot 2" style="max-width:100%;height:auto;">
+</p>
+
+Case Side view:
+
+<p align="center">
+  <img src="Images/Screenshot%202026-01-25%20131454.png" alt="Wireless Split Keeb screenshot" style="max-width:100%;height:auto;">
+</p>
+
+PCB:
 
 ![Screenshot 2026-01-16 08:51:56](Images/Screenshot%202026-01-16%20085156.png)
 
